@@ -1,0 +1,14 @@
+{
+  "name": "mtn",
+  "version": "1.0.0",
+  "description": "\"mtn award auto fill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukisa Geofrey",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
+}
